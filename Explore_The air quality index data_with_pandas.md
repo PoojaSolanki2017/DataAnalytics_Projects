@@ -8,8 +8,7 @@ The air quality index (AQI) is a number that runs from 0 to 500. The higher the 
 
 In order to complete the project, load a dataframe, examine its metadata and summary statistics, and explore it using iloc indexing and sorting. Furthermore, practice also Boolean masking, grouping, and concatenating data.
 
-<img src="https://raw.githubusercontent.com/PoojaSolanki2017/Portfolio_Project/refs/heads/main/Python_Project/AQI-Basics-for-Ozone-and-Particle-Pollution-Daily-AQI-Colour-Levels-of-Concern-Values-of.png"
-      />
+![AQI Levels](https://github.com/PoojaSolanki2017/Portfolio_Project/blob/main/Input_Datasets/AQI_levels.JPG)")
 
 ## Task 1: Read data from csv file into a pandas dataframe
 
