@@ -1,4 +1,4 @@
-<h1>Explore Dataframes with pandas</h1>
+<h1>Explore AQI data with pandas</h1>
 
 ## Introduction
 
