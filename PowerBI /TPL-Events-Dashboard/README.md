@@ -153,6 +153,13 @@ Users can search events using multiple slicers, including:
 
 * Recommendation system for events
 
+## **Demostrations**
+To demonstrate how the dashboard works, I’ve also included a short video showing how users can interact with the filters and explore different events.
+
+
+https://github.com/user-attachments/assets/43474418-b303-41b6-a36f-7be8941ee336
+
+
 Author
 
 Pooja
